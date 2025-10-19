@@ -1,0 +1,33 @@
+npx create-next-app@latest
+typescript no
+eslint no
+tailwindcss yes
+src/dict no
+app router yes
+turbopack no
+import alias no
+
+
+npx shadcn@latest init
+
+package.json - react, react-dom version 18
+npm i
+
+npm install next-themes
+
+npm install lucide-react
+
+npm install convex
+
+run convex- npx convex dev
+
+npm install tailwind-scrollbar-hide
+
+npm install react-markdown
+
+codeview - sandpack library
+npm i @codesandbox/sandpack-react
+
+gemini-2.0-flash-exp
+gemini-2.0-pro-exp-02-05
+gemini-2.0-flash-thinking-exp-01-21
